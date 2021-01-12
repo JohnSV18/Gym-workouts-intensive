@@ -6,4 +6,6 @@ I've created this website so you can "Click to workout". By this I mean you can 
 exercises specifically for that body part. This includes an image of the workout, as well as the steps and a video showing you how to do it.
 This way you don't have to be switching through tabs searching up a workout and then looking for a video on how to complete it.
 
+Give us a try and just click on a body part/muscle and enjoy your workout!
+
  
